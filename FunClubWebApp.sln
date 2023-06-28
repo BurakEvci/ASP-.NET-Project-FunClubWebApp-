@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunClubWebApp", "FunClubWebApp\FunClubWebApp.csproj", "{BEEC4C9E-8B27-45B6-9BC7-61E1C5039BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEEC4C9E-8B27-45B6-9BC7-61E1C5039BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEC4C9E-8B27-45B6-9BC7-61E1C5039BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEC4C9E-8B27-45B6-9BC7-61E1C5039BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEC4C9E-8B27-45B6-9BC7-61E1C5039BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE9E345-4827-457D-A649-1A6D5D2F56ED}
+	EndGlobalSection
+EndGlobal
